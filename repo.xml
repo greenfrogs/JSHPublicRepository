@@ -3,7 +3,7 @@
   <name>JSHPublicRepository</name>
   <url>https://raw.githubusercontent.com/greenfrogs/JSHPublicRepository/master/repo.xml</url>
   <apps>
-    <app name="Hello">
+    <app name="hello">
       <url>https://raw.githubusercontent.com/greenfrogs/JSHPublicRepository/master/Hello.java</url>
       <dependencies></dependencies>
     </app>
